@@ -1,0 +1,24 @@
+23
+0 0 start
+0 1 getP
+0 2 getR
+0 3 getI
+0 4 getN
+0 5 getT
+2 0 NE
+2 1 number
+2 2 one
+2 3 zero
+2 4 one
+2 5 one
+2 6 SW
+3 0 SE
+3 2 add
+3 3 one
+3 4 number
+3 5 routine
+3 6 NW
+4 0 NE
+4 1 call
+4 7 print
+4 8 return

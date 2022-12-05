@@ -1,0 +1,103 @@
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 8\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 8\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 8\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 8\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.exe
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 8\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.pdb
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 8\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csprojResolveAssemblyReference.cache
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 8\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ObjectView.resources
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 8\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WFPlayDebugFormulary.resources
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 8\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WFWallEWorldFormulary.resources
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 8\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 8\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csproj.GenerateResource.Cache
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 8\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 8\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 9\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 9\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 9\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 9\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 9\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 9\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.exe
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 9\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.pdb
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 9\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csprojResolveAssemblyReference.cache
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 9\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ObjectView.resources
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 9\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WFPlayDebugFormulary.resources
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 9\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WFWallEWorldFormulary.resources
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 9\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 9\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csproj.GenerateResource.Cache
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.exe
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.pdb
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csprojResolveAssemblyReference.cache
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ObjectView.resources
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WFPlayDebugFormulary.resources
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WFWallEWorldFormulary.resources
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Cyber\Proyectos del Visual Studio\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csproj.GenerateResource.Cache
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.exe
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.pdb
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.exe.config
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csprojAssemblyReference.cache
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ObjectView.resources
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WFPlayDebugFormulary.resources
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WFWallEWorldFormulary.resources
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csproj.GenerateResource.cache
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csproj.CoreCompileInputs.cache
+G:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csproj.CopyComplete
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.exe
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.pdb
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.exe.config
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csprojAssemblyReference.cache
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ObjectView.resources
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WFPlayDebugFormulary.resources
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WFWallEWorldFormulary.resources
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csproj.GenerateResource.cache
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csproj.CoreCompileInputs.cache
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csproj.CopyComplete
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Cyber\Proyectos del Visual Studio y otros\CSharp\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.exe
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.pdb
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.exe.config
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csprojAssemblyReference.cache
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ObjectView.resources
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WFPlayDebugFormulary.resources
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WFWallEWorldFormulary.resources
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csproj.GenerateResource.cache
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csproj.CoreCompileInputs.cache
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csproj.CopyComplete
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.exe
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.pdb
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\bin\Debug\Wall-E Return´s.exe.config
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csprojAssemblyReference.cache
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ObjectView.resources
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WFPlayDebugFormulary.resources
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WFWallEWorldFormulary.resources
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csproj.GenerateResource.cache
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csproj.CoreCompileInputs.cache
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\The Return of Wall-E Window Forms.csproj.CopyComplete
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Cyber\Proyectos del Visual Studio y otros\Programación Proyecto\Segundo Proyecto - Wall-E Return\Wall E Return`s 10\Wall-E Return´s\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

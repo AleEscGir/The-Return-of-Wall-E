@@ -1,0 +1,4 @@
+3 cifras:
+1-Forma (shape) o tipo de robot
+2-Tamaño (size) si es un objeto o dirección si es un robot
+3-Color

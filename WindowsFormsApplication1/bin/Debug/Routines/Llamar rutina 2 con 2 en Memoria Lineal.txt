@@ -1,0 +1,10 @@
+9
+0 0 start
+1 0 number
+2 0 one
+3 0 zero
+4 0 number
+5 0 setAt
+6 0 number
+7 0 one
+8 0 call
